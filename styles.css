@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    margin: 30px;
+}
+body{
+    background: rgb(200, 152, 125);
+}
+
+#hero1{
+    background-color: silver;
+}
+.hero{
+    background-color: royalblue;
+}
+
+h1,h3{
+    color: green;
+}
+p{
+    color: red;
+}
+a{
+    color: teal;
+    text-decoration: none;
+    text-transform: uppercase;
+}
